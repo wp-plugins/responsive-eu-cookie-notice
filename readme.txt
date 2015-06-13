@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPL2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple, configurable notice that appears at the top of the page. Easily closed by the user. Javascript-based cookie handling is compatible with Wordpress front-end caching strategies.
+A simple, configurable notice that appears at the top of the page. Easily closed by the user. Javascript-based cookie handling works with caching.
 
 == Description ==
 
